@@ -1,0 +1,3 @@
+git clone https://github.com/Artemy-study/GithubPractice.git //download git project
+git dtatus //status of git project
+git add --all //add all files to git

@@ -12,6 +12,7 @@ git checkout //delete last  changes
 git remote add origin https://github.com/Artemy-study/GithubPractice.git //conecting to git project 
 git push //upload changes to server
 git stash //hide changes
+gitk //gui 
 
 git pull 
 git merge

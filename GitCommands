@@ -1,3 +1,19 @@
 git clone https://github.com/Artemy-study/GithubPractice.git //download git project
-git dtatus //status of git project
+git status //status of git project
 git add --all //add all files to git
+git config --list //configuration of git projectt
+git init //init local repository
+git commit -m "commit"
+git diff //diference in files (using last commit)
+git log //display all commits
+git show //show difference
+git branch some //create new branch
+git checkout //delete last  changes
+git remote add origin https://github.com/Artemy-study/GithubPractice.git //conecting to git project 
+git push //upload changes to server
+git stash //hide changes
+
+git pull 
+git merge
+git reset 
+git tag
